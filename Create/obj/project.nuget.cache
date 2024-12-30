@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DL3V+FXHwM4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himanshu.y.sharma\\source\\repos\\Create\\Create.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\confluent.kafka\\2.6.1\\confluent.kafka.2.6.1.nupkg.sha512",
+    "C:\\Users\\himanshu.y.sharma\\.nuget\\packages\\librdkafka.redist\\2.6.1\\librdkafka.redist.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
